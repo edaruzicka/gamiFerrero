@@ -1,0 +1,49 @@
+body{
+    background-image: url("/img/background.png");
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+}
+
+.nav-button{
+    font-size: 20px;
+}
+
+.dropdown-toggle{
+    font-size: 20px;
+}
+
+.navbar-brand{
+    font-size: 25px;
+    
+}
+
+.dropdown-menu
+{
+    background-color: rgb(255, 255, 255);
+}
+
+.list-group-item{
+    font-size: 20px;
+}
+
+#color-picker{
+    color: rgb(178, 144, 54);
+}
+
+.card-img-top{
+    border-radius: 10%;
+}
+
+  
+.box-shadow { 
+    box-shadow: 0 .75rem .75rem rgba(0, 0, 0, .05);
+    background: rgba(216, 216, 216, 0.39);
+    padding: 10px;
+    border-radius: 2%;
+}
+
+.thumbnail{
+    height: 230px;
+    max-width: 200px;
+}
